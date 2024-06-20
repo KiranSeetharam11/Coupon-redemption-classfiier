@@ -58,5 +58,5 @@ To run this project locally, ensure you have the following libraries installed:
 
 ## ER Diagram
 
-![ER Diagram](https://github.com/KiranSeetharam11/Cheque-Details-Recognition/blob/main/Cheque%20ER.png](https://github.com/KiranSeetharam11/Coupon-redemption-classfiier/blob/main/Concept%20Map-2.png))
+![ER Diagram](https://github.com/KiranSeetharam11/Coupon-redemption-classfiier/blob/main/Concept%20Map-2.png)
 
